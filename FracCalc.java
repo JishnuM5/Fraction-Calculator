@@ -1,8 +1,3 @@
-//Jishnu Mehta
-//Period 3
-//AP Computer Science
-//FracCalc
-
 //The import statements provide more functionality and methods to use
 import java.math.BigInteger;
 import java.util.Scanner;
